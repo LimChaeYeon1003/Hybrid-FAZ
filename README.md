@@ -74,7 +74,7 @@ Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
 |Baseline|47.5± 5.8%|31.7± 12.2%|76.2± 14.4%|58.5± 5.4%|
 |Proposed|64.8± 4.3%|50.4± 3.4%|83.7± 6.3%|72.0± 4.8%|
 
-'''
+```
 @article{yoon2024enhancing,
   title={Enhancing foveal avascular zone analysis for Alzheimer’s diagnosis with AI segmentation and machine learning using multiple radiomic features},
   author={Yoon, Je Moon and Lim, Chae Yeon and Noh, Hoon and Nam, Seung Wan and Jun, Sung Yeon and Kim, Min Ji and Song, Mi Yeon and Jang, Hyemin and Kim, Hee Jin and Seo, Sang Won and others},
@@ -85,7 +85,7 @@ Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
   year={2024},
   publisher={Nature Publishing Group UK London}
 }
-'''
+```
 
 ---
 
